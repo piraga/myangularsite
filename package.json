@@ -1,6 +1,7 @@
 {
   "name": "myangularsite",
   "version": "0.0.0",
+  "homepage": "https://piraga.github.io/myangularsite",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
